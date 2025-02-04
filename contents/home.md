@@ -1,4 +1,4 @@
-Experienced Geophysicist and Remote Sensing Specialist with over five years of expertise in geodetic studies, InSAR data analysis, and geohazard assessment. Expertise in using time-series InSAR data for earthquake and land subsidence studies, fault slip modeling, and seismic hazard assessment. Proficient in multiple geospatial tools and programming languages.
+Saurabh.
 #### Email
 jasir.insar[at]gmail.com
 
